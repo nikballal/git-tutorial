@@ -1,1 +1,2 @@
-this is chapter3, the final (3rd test to check the branch)
+this is chapter3, the final (checking out the 'testing' branch)
+
